@@ -1,1 +1,1 @@
-Final Approach v0.5: color-coded incoming aircraft warnings; Catmull-Rom smoothed paths and lookahead guidance; pause and 2x speed; parallel runways share landing direction; 100 points per landing, +50 perfect, +100 every 5-landing streak. Upload index.html to GitHub Pages root.
+Final Approach v1.1: enhanced cartoon terminal, apron, taxiway, isolated helipad, angled runways with approach lights, cartoon aircraft details, landing points only in HUD, difficulty scaling by landings. Replace GitHub Pages root index.html.
